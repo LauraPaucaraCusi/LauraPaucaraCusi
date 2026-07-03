@@ -29,12 +29,13 @@ Tengo experiencia liderando mesas técnicas ante entes reguladores como **SERNAG
 
 ---
 
-## 📈 Mis Estadísticas en GitHub
+## 🛠️ Tecnologías y Herramientas Destacadas
 
-Aquí puedes ver la constancia, impacto y avance de mis códigos y repositorios:
-
-![Estadísticas de GitHub](https://vercel.app)
-![Lenguajes más usados](https://vercel.app)
+![Python](https://shields.io)
+![SQL](https://shields.io)
+![Docker](https://shields.io)
+![Linux](https://shields.io)
+![PowerBI](https://shields.io)
 
 ---
 
@@ -50,3 +51,4 @@ Si buscas una ingeniera con mentalidad analítica que domine tanto las variables
 - 💼 **LinkedIn:** [laura-daniela-paucara-cusi-](https://linkedin.com)
 - 📧 **Correo:** Laura_paucaracusi@hotmail.com
 - 📍 **Ubicación:** Iquique, Chile (Con disponibilidad para regímenes de turnos y traslados mineros)
+
