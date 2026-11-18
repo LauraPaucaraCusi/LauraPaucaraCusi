@@ -31,11 +31,11 @@ Tengo experiencia liderando mesas técnicas ante entes reguladores como **SERNAG
 
 ## 🛠️ Tecnologías y Herramientas Destacadas
 
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![Docker](https://shields.io)
-![Linux](https://shields.io)
-![PowerBI](https://shields.io)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 
 ---
 
@@ -48,7 +48,7 @@ Tengo experiencia liderando mesas técnicas ante entes reguladores como **SERNAG
 ## 📬 Conectemos
 Si buscas una ingeniera con mentalidad analítica que domine tanto las variables metalúrgicas en planta como la automatización y analítica en la nube, ¡conversemos!
 
-- 💼 **LinkedIn:** [laura-daniela-paucara-cusi-](https://linkedin.com)
+- 💼 **LinkedIn:** Enlace al perfil pendiente de confirmar
 - 📧 **Correo:** Laura_paucaracusi@hotmail.com
 - 📍 **Ubicación:** Iquique, Chile (Con disponibilidad para regímenes de turnos y traslados mineros)
 
